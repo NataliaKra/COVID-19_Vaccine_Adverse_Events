@@ -39,6 +39,6 @@ Injection site pain
 
 ![Symptoms](https://user-images.githubusercontent.com/86741579/156524902-067023c6-234b-4c84-be00-9fc6eb1468f5.png)
 
-The Tablleau dashbord for results can be found here: https://public.tableau.com/shared/MMK99QB9C?:display_count=n&:origin=viz_share_link. It also contains visuals for manufacturers and geographical data.
+The Tablleau dashbord for results can be found here: https://public.tableau.com/views/VAERS_EDA_Dashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link. It also contains visuals for manufacturers and geographical data.
 
 Thank you!
