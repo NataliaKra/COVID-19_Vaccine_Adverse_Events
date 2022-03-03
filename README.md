@@ -1,4 +1,4 @@
-# VAERS_Outcomes_Analysis-Modelling
+# COVID-19_Vaccine_Adverse_Events
 
 This project is devoted to analyzing VAERS dataset of COVID-19 vaccination adverse events.  
 VAERS_EDA.ipynb contains preprocessing and cleaning steps
